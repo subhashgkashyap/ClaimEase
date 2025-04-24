@@ -7,8 +7,7 @@ ClaimEase is a simple **ServiceNow-based Reimbursement Management System** desig
 ## 🚀 Key Features
 
 ### 🧾 Claim Submission
-- Employees (Claimants) can submit reimbursement claims via an intuitive **Record Producer** form.
-- Smart categorization and easy attachment of supporting documents.
+- Employees (Claimants) can submit reimbursement claims via a **Record Producer**.
 
 ### ✅ Approval Workflow
 - Claims are routed to the appropriate **Approvers**.
