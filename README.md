@@ -11,7 +11,7 @@ ClaimEase is a simple **ServiceNow-based Reimbursement Management System** desig
 - Smart categorization and easy attachment of supporting documents.
 
 ### ✅ Approval Workflow
-- Claims are routed to the appropriate **Approvers** based on business logic (e.g., manager or cost center).
+- Claims are routed to the appropriate **Approvers**.
 - Approvers can **review**, **approve**, or **reject** claims.
 
 ### 💰 Finance Processing
