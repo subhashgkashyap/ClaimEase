@@ -42,11 +42,4 @@ ClaimEase is a simple **ServiceNow-based Reimbursement Management System** desig
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!
-Just fork the repo, make your changes, and submit a pull request.
-
----
-
 > Built with ❤️ on ServiceNow by Subhash G Kashyap
